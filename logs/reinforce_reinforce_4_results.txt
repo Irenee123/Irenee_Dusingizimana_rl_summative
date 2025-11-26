@@ -1,0 +1,6 @@
+REINFORCE Experiment: reinforce_4
+Learning Rate: 0.0005
+Gamma: 0.98
+Episodes: 5000
+Final Loss: -4.126762390136719
+REINFORCE completed
